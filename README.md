@@ -4,6 +4,7 @@ FPluginLoader é uma biblioteca de código aberto que tem como objetivo auxiliar
 A biblioteca oferece diversos recursos e funcionalidades que facilitam a criação e o gerenciamento de plugins, permitindo que os desenvolvedores foquem em implementar as funcionalidades específicas de seus plugins. Porém, é importante lembrar de adaptar o código conforme suas necessidades, especialmente o sistema de licença, que deve ser ajustado para a URL do seu site. Depois de feita a adaptação, aproveite os recursos oferecidos pela biblioteca para otimizar e aprimorar seus plugins!
 
 ### Em desenvolvimento
+Sinta-se a vontade em colaborar com o projeto, seja criando ou modificando os sistemas.
 
 # Bukkit
 Para fazer um plugin utilizando o BukkitPlugin ao em vez do JavaPlugin, utiliza-se o padrão a baixo.
