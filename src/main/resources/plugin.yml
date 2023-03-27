@@ -1,0 +1,4 @@
+name: FPluginLoader
+version: '${project.version}'
+main: com.github.fleivinho.fpluginloader.example.bukkit.PluginMain
+api-version: 1.15
