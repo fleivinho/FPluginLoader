@@ -1,4 +1,7 @@
 # FPluginLoader
 FPluginLoader é uma biblioteca que foi criada com o objetivo de ajudar no desenvolvimento de plugins Bukkit/Spigot/Bungee, além de ser uma excelente ferramenta de estudo para quem deseja aprender mais sobre o desenvolvimento de plugins para Minecraft. Com ela, é possível utilizar diversos recursos que facilitam a criação e o gerenciamento de plugins, tornando o processo mais rápido e eficiente.
 
+### Em desenvolvimento
+
 # Colabore
+Aceito qualquer colaboração para o projeto! Envie suas pull requests e irei avalia-las.
