@@ -18,12 +18,6 @@ public class PluginMain extends BukkitPlugin {
     private BukkitPlugin instance;
 
     public PluginMain() {
-        /*
-            Caso o plugin seja pago, deixe o valor boolean 'true'
-            super(new LoaderInfo("FPluginLoader", true));
-            
-            Para que funcione corretamente, ajuste a classe BukkitLicense.java
-         */
         super(new LoaderInfo("FPluginLoader", false));
     }
 
